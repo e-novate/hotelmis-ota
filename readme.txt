@@ -1,9 +1,17 @@
-This is a very old version of the OTA Hotel Management solution, this version is no longer supported by e-Novate Pte Ltd and does not work properly on PHP versions 7 and above.
-OTA Hotel Management has been renamed e-Bridge Hotel and has reverted to a freeware with a paid version providing real connectivity.
+Please don't use this version of hotelmis-ota, please go to the original creator and maintainers website.  www.e-bridge.co
 
-The free version can be downloaded from www.e-bridge.co, it comes pre-installed with a WAMP or MAMP server and is ready to install and run.
-Free version only requires a valid email to download.  
-Premium version requires hotel/property verification as we connect to OTAs.
+This is a very old version of the OTA Hotel Management solution, this version is no longer supported by e-Novate Pte Ltd and the PHP version it uses is no longer supported.
+OTA Hotel Management has been renamed e-Bridge Hotel and has reverted to a freeware with a paid version providing real connectivity.
+The creators of e-Bridge Hotel work very hard on our product, to help support the industry we supply both FREE and PAID (premium) versions which are updated regularly.
+
+We have found that people have been charged for this product - we DO NOT CHARGE for OUR FREE versions. 
+
+We have 2 free versions - the standalone e-Bridge Hotel Lite, it runs on a standalone Windows PC or Mac, it comes pre-installed with a WAMP or MAMP server and is ready to install and run. The e-Bridge Hotel Lite version only requires a valid email to download.   
+e-Bridge Hotel is also FREE and is for Cloud installations or linux servers. This version comes with FB web application and Online booking engine and more features needed for running your property.  To use this version, we would like to verify the property/hotels using it to prevent unscrupulous people selling this version or setting up fake hotels and scamming people which hurts the travel industry as well as us. 
+
+
+The free versions can be downloaded from www.e-bridge.co.
+Premium version requires hotel/property verification as we connect to OTAs. We charge a small license fee for this version, you can see the pricing on our website, and we provide a hosting option as well in the pricing. We can even host the free version for you if you want extra help.
 
 The e-Bridge Hotel Premium is a fully cloud ready application and  contains:
 - 'Rooms' online booking engine
