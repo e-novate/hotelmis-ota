@@ -1,5 +1,0 @@
-/gmail.com/	OK
-/hotmail.com/	OK
-/yahoo.com/	OK
-/live.com/	OK
-/outlook.com/	OK
